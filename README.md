@@ -1,8 +1,8 @@
-# Customer Purchase Prediction
+# Sales Data Analysis
 
-## Project Overview
+## Overview
 
-This project aims to predict whether a customer will make a purchase in the following month based on their transaction history. We explored various machine learning models, including Logistic Regression and Gaussian Naive Bayes, to determine the best approach for this prediction task.
+In this report My aims to predict whether a customer will make a purchase in the following month based on their transaction history. We explored various machine learning models, including Logistic Regression and Gaussian Naive Bayes, to determine the best approach for this prediction task.
 
 ## Dataset
 
@@ -17,16 +17,14 @@ The dataset used for this project includes customer transaction records, with fe
 ## Data Preparation and Feature Engineering
 
 ### Steps:
-1. **Data Loading and Cleaning**: The dataset was cleaned to handle missing values and ensure consistency.
-2. **Date Conversion**: The 'InvoiceDate' column was converted to datetime format.
-3. **Target Variable Creation**: A binary target variable, `NextMonthPurchase`, was created to indicate whether a purchase occurred in the following month.
-4. **Encoding Categorical Features**: Categorical features like 'Country' were encoded using `LabelEncoder`.
-5. **Feature Engineering**: New features were created to capture customer behavior:
-   - Recency: Days since the last purchase.
-   - Frequency: Number of unique purchases.
-   - Monetary: Total spending.
-   - Average Order Value: Average amount spent per order.
-   - Revenue: Total revenue generated.
+1. Data Collection.
+2. Data Exploration and Cleaning.
+3. Descriptive Analysis.
+4. Sales Trend.
+5. Customer Analysis.
+6. Geographical Analysis.
+7. Recommendations.
+8. Machine Learning Model
 
 ## Model Training and Evaluation
 
