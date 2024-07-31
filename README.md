@@ -57,5 +57,5 @@ Based on the evaluation metrics, the Naive Bayes classifier demonstrated superio
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository-link
-   cd your-repository-link
+   https://github.com/Vineetg2003/Sales-Data-Analysis
+
