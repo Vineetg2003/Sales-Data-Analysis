@@ -11,8 +11,10 @@ The dataset used for this project includes customer transaction records, with fe
 - Country
 - CustomerID
 - InvoiceNo
-- TotalPrice
-- Revenue
+- Description
+- Quantity
+- Unit Price
+
 
 ## Data Preparation and Feature Engineering
 
